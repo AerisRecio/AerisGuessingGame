@@ -1,0 +1,1 @@
+This was such a fun little acivity for me! My senior told me that I should code at least once every week so from now on, I will try making one each week, despite my crazy scedule... I made this simple number guessing game after a flowchart activity that our professor designed for our midterms a week ago! I am so glad I still remember the details of that flow chart!
